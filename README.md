@@ -1,4 +1,4 @@
-![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/a2ae0cec-da68-4e3d-a91b-d113dfcfbef7)# knime_prjct
+# knime_prjct
 Прохождение курса по инструменту KNIME и параллельная реализация своего проекта.
 
 1. Открыли приложение KNIME
