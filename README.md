@@ -1,4 +1,4 @@
-# knime_prjct
+![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/a2ae0cec-da68-4e3d-a91b-d113dfcfbef7)# knime_prjct
 Прохождение курса по инструменту KNIME и параллельная реализация своего проекта.
 
 1. Открыли приложение KNIME
@@ -9,5 +9,9 @@
 
 3. При загрузке с помощью ноды CSV reader разделим данные на столбцы
 ![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/2ed0fa33-10d3-4571-a021-9d4bb594cbb5)
+
+4. Добавим данные в конец изначального файла Excel Reader
+![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/8409adc6-2c7b-4775-b3a5-f6d5224e8a8d)
+
  
 
