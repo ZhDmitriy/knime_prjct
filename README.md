@@ -19,4 +19,5 @@
 6. Метчим данные о сотрудниках
 ![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/e085bdde-300c-4688-8f47-7ec18d2607ce)
 
-
+7. Применили математические преобразования к столбцу с Весом Груза
+![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/bd5e4d6f-d79f-446e-a3e2-4b07ce5e2e6c)
