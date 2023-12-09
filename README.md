@@ -13,5 +13,6 @@
 4. Добавим данные в конец изначального файла Excel Reader
 ![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/8409adc6-2c7b-4775-b3a5-f6d5224e8a8d)
 
- 
+5. Добавили фильтрацию данных
+![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/f1112984-4b1b-49eb-ac8e-1fbf10bd3fbf)
 
