@@ -24,3 +24,6 @@
 
 8. Сделали сводную таблицу по странам
 ![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/25d6f9c0-e042-4bd9-aac8-d6874d845017)
+
+9. Записали результаты в файл
+![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/f0b63133-ca1a-4821-809f-ca5972e8be33)
