@@ -21,3 +21,6 @@
 
 7. Применили математические преобразования к столбцу с Весом Груза
 ![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/bd5e4d6f-d79f-446e-a3e2-4b07ce5e2e6c)
+
+8. Сделали сводную таблицу по странам
+![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/25d6f9c0-e042-4bd9-aac8-d6874d845017)
