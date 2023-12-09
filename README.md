@@ -16,3 +16,7 @@
 5. Добавили фильтрацию данных
 ![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/f1112984-4b1b-49eb-ac8e-1fbf10bd3fbf)
 
+6. Метчим данные о сотрудниках
+![image](https://github.com/ZhDmitriy/knime_prjct/assets/141666797/e085bdde-300c-4688-8f47-7ec18d2607ce)
+
+
